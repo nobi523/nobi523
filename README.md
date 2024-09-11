@@ -1,5 +1,5 @@
 - 👋 Hi, I’m abhi
-- 👀 I’m interested in web devwlopmwnt and collabration coding for a project or anything
+- 👀 I’m interested in web devlopment and collabration coding for a project or anything
 - 🌱 I’m currently learning frame works and javascript
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me you can message on IG:@nobi__nobita__523
